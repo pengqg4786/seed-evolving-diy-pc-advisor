@@ -17,6 +17,12 @@ npm start
 
 打开 `http://127.0.0.1:8787`。若使用 ArkCLI，请先完成本机 ArkCLI 登录；若使用 OpenAI 兼容 API，在页面中填写接口地址、模型 ID 和 Key。
 
+## 界面素材
+
+下图是本项目早期“证据卡”工作流的高清界面记录，用于说明需求与证据如何被组织；当前版本在此基础上增加了 ArkCLI / OpenAI 兼容 API 配置、最终推荐配置和过程摘要。它不是实时价格或店铺信息的证明。
+
+![早期证据卡界面](docs/screenshots/evidence-card-early-ui.png)
+
 ## 每次运行的可见过程
 
 1. 需求接收
